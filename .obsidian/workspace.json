@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f299b041b409048f",
@@ -147,5 +147,7 @@
     }
   },
   "active": "172db0ea6cc0a354",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Pasted image 20230624122000.png"
+  ]
 }
